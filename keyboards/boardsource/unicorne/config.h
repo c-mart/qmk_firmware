@@ -18,3 +18,6 @@
 #define ANALOG_JOYSTICK_X_AXIS_PIN GP27
 #define POINTING_DEVICE_INVERT_Y
 #define POINTING_DEVICE_INVERT_X
+
+// To fix games like Zachtronics TIS-100 not recognizing taps triggered by layer-tap keys
+// #define TAP_CODE_DELAY 25
