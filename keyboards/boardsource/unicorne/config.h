@@ -19,5 +19,8 @@
 #define POINTING_DEVICE_INVERT_Y
 #define POINTING_DEVICE_INVERT_X
 
+#define TAPPING_TERM 150
+#define TAPPING_TERM_PER_KEY
+
 // To fix games like Zachtronics TIS-100 not recognizing taps triggered by layer-tap keys
 // #define TAP_CODE_DELAY 25
